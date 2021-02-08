@@ -40,11 +40,11 @@ address {
     border-color: rgb(146, 146, 146);
 }
 
-body{
-    padding:50px 0px 0px 0px;
-    z-index:0;
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
 }
 
 .navbar-dark {
-     background-color: #5b34b8;
+    background-color: #5b34b8;
 }
